@@ -1,4 +1,4 @@
-# pr_bio_2018-2019_assignments
+# What's this?
 A repository to host the files used by the students of Perspectives in Bioinformatics 2018-2019 class to submit their assignments.
 
 # What I've learned?
